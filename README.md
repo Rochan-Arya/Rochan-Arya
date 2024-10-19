@@ -7,7 +7,7 @@ I'm a **Flutter developer** passionate about crafting beautiful **UIs** ✨. I a
 ---
 
 ## 🌐 Connect with me 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/rochan-arya-v-964929287/))  
 
 ---
 
