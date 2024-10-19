@@ -31,7 +31,7 @@ I'm a **Flutter developer** passionate about crafting beautiful **UIs** ✨. I a
 ---
 
 ## 💼 What I'm Working On  
-- 🔭 I’m currently working on **Pocket Plan(https://github.com/pocket_plan)**  
+- 🔭 I’m currently working on **Pocket Plan (https://github.com/pocket_plan)**  
 - 🌱 I’m currently learning **State Management using Bloc**  
 - 🤝 I’m open to collaborating on **UI/UX-heavy Flutter apps**  
 - 💬 Ask me about **Flutter development, UI design, or HTML/CSS tips**
