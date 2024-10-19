@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Rochan Arya]!
+# 👋 Hello, I'm Rochan Arya !
 
 ![Profile views](https://komarev.com/ghpvc/?username=YourUsername&color=blueviolet&style=flat-square)  
 
