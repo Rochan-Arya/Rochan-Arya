@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Rochan Arya !
 
-![Profile views](https://komarev.com/ghpvc/?username=YourUsername&color=blueviolet&style=flat-square)  
+ 
 
 I'm a **Flutter developer** passionate about crafting beautiful **UIs** ✨. I also have experience with **HTML** and **CSS**. When I'm not coding, I'm exploring new designs and learning ways to improve user experiences. 🚀
 
