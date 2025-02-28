@@ -19,14 +19,6 @@ I'm a **Flutter developer** passionate about crafting beautiful **UIs** ✨. I a
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)  
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 
----
-
-## 📈 GitHub Stats 
-
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical"/>
-</div>
 
 ---
 
